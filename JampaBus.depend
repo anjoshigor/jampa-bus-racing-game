@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1445473643 source:/home/diogodantas/Documentos/ProgramacaoC/URI/JampaBus/display.cpp
+	"display.h"
+	<iostream>
+
+1445473055 /home/diogodantas/Documentos/ProgramacaoC/URI/JampaBus/display.h
+	<SDL2/SDL.h>
+	<SDL/SDL.h>
+	<string>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1445473632 source:/home/diogodantas/Documentos/ProgramacaoC/URI/JampaBus/main.cpp
+	<iostream>
+	"display.h"
+
